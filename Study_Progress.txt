@@ -10,19 +10,37 @@ rather like = 有点像
 比较选择：而不是 → rather than…
 
 
+结构：A consists of B + C + D
+A = 整体
+of 后面列出组成部分
+❗ 注意：consist of 不能用于被动语态（不能说 is consisted of）
 
 
+----------------------------
+have 表示已完成的事情对现在还有影响
+had 过去的过去，表示过去时间点的区别
 
+to do: 两个动词不能同时用，表示目的，后续的动作
+claim to, seem to, appear to
+to have done 完成的动作
 
+doing sth：1时间，2原因，3条件，4结果(导致)，5虽然，6伴随
+一个动作被“当成一件事”时，用 doing，做主语，宾语，定语
 
-
-
-
-
-
-
-
-
+done：作定语（修饰名词），作状语（背景），
+being done：动作正在发生（被动）
+having been done = 被动动作发生在主句动作之前
+使用场景：
+	原因
+	背景
+	前置条件
+having been done → 因果 / 背景
+being done → 进行中（未完成）
+done → 状态信息
+👉 这些句子通常是：
+原因句
+条件句
+背景句
 
 
 
