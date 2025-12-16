@@ -60,7 +60,11 @@ done 表示已完成完成的修饰
 “导致 / 造成 / 产生 / 带来”
 
 
-
+原因类
+because of
+due to
+driven by
+as a result of
 
 
 
