@@ -21,7 +21,7 @@ have 表示已完成的事情对现在还有影响
 had 过去的过去，表示过去时间点的区别
 
 to do: 两个动词不能同时用，表示目的，后续的动作(发现...)
-claim to, seem to, appear to
+claim to, seem to, appear to 直接翻译成 “似乎” 后续动作(补语)
 to have done 完成的动作
 
 doing sth：1时间，2原因，3条件，4结果(导致)，5虽然，6伴随
