@@ -99,3 +99,45 @@ done 表示已完成完成的修饰
 1 句子主体：主谓宾
 2 时间顺序，从而弄清逻辑关系
 3 各种从句的修饰关系
+
+
+-----------------------------------------------------------------------------
+② 否定前移 & 否定范围
+
+你以后看到这些，立刻警觉：
+not necessarily 不一定
+not always  并非总是
+not entirely 并不完全
+not completely 
+not fully 
+not uncommon = 并不少见
+👉 它们否定的是“程度 / 必然性”，不是“事实本身”
+
+形式上的否定在主句，语义上的否定在从句。
+看到这些动词 + not，高度警惕：
+think
+believe
+suppose
+expect
+consider
+assume
+suggest（有时）
+I / We / Researchers do not + 动词 + that 从句
+否定通常作用在 that 从句里
+
+X does not think/believe/suggest that Y  ≈ → X thinks/believes/suggests that NOT Y
+
+
+Not until + 时间/事件 + did + 主语 + 动词
+直到 A 发生，B 才发生   A 是前置条件，B 是真正动作  B一直没发生，直到A…… 
+
+Not only … but also …（强调并列型）
+不仅 A，而且 B（B 往往更重要）
+Not only did + 主语 + 动词原形, but also + 主语 + 动词    (A 是什么，B 就是什么)
+
+
+
+
+
+
+
