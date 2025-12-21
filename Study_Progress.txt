@@ -177,8 +177,11 @@ be responsible for
 
 The + 抽象名词 A + of / to / involving / related to B + (插入修饰 1) + (插入修饰 2) + has / have + 结果动词 + 结果 C(+ 定语从句修饰 C)
 
-
-
+the extent to which …
+the degree to which …
+the scope to which 
+the way in which …
+A 在多大程度/范围/方式上影响 B
 
 
 
