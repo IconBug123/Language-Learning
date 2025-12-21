@@ -129,11 +129,55 @@ X does not think/believe/suggest that Y  ≈ → X thinks/believes/suggests that
 
 
 Not until + 时间/事件 + did + 主语 + 动词
-直到 A 发生，B 才发生   A 是前置条件，B 是真正动作  B一直没发生，直到A…… 
+直到 A 发生，B 才发生   A 是前置条件，B 是真正动作  B一直没发生，直到A……    B是倒装
+Not until further evidence was presented did the committee revise its conclusion.
+
 
 Not only … but also …（强调并列型）
 不仅 A，而且 B（B 往往更重要）
 Not only did + 主语 + 动词原形, but also + 主语 + 动词    (A 是什么，B 就是什么)
+句首 not only 要倒装，A 和 B 形式要对称。
+例子
+	not only skills, but also experience
+	not only designed the system, but also tested it
+	not only in theory, but also in practice
+	The policy affects not only employees but customers as well.
+	❌ 错误：not only design, but also testing（形式不对称）
+
+
+No sooner had A happened than B happened
+A 刚一发生，B 就立刻发生
+
+Hardly had + 主语 + 过去分词, when + 一般过去时
+ 刚刚……就……（几乎还没……就……） 
+放在句首要用到装，不放在句首不需要    主语 + had hardly/no sooner + 过去分词 + when/than + 一般过去时
+
+
+
+
+------------------------------------
+最常见的“危险抽象名词”（高频清单）
+failure（失败 / 未能）
+lack（缺乏）
+inability（无法）
+tendency（倾向）
+decision（决定）
+increase / decline（增加 / 下降）
+reliance（依赖）
+adoption（采用）
+implementation（实施）
+
+最常见的“后果动词”（结果触发器）这些词告诉你：后果来了
+lead to
+result in
+contribute to
+give rise to
+cause
+be responsible for
+
+The + 抽象名词 A + of / to / involving / related to B + (插入修饰 1) + (插入修饰 2) + has / have + 结果动词 + 结果 C(+ 定语从句修饰 C)
+
+
 
 
 
